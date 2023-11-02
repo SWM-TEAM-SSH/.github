@@ -12,13 +12,6 @@
   </tr>
 </table>
 
-<br />
-
-## Product
-<img src="https://github.com/SWM-TEAM-SSH/.github/assets/47477205/6dbc2b7b-a76e-4675-8e2d-dbb743c936dc" width="23%" alt=""/>
-<img src="https://github.com/SWM-TEAM-SSH/.github/assets/47477205/c801e505-405d-449c-98cf-9526b804d5ef" width="23%" alt=""/>
-<img src="https://github.com/SWM-TEAM-SSH/.github/assets/47477205/e8a65cc6-2439-4a57-a856-f7fa842b722d" width="23%" alt=""/>
-<img src="https://github.com/SWM-TEAM-SSH/.github/assets/47477205/6867f569-969d-45c1-80f7-31980b44a40f" width="23%" alt=""/>
 
 <br/>
 
